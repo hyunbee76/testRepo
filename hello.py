@@ -1,2 +1,3 @@
 print("hello python")
-print("안녕 파이썬")
+print("hello python2")
+print("hello python3")
